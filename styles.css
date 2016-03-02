@@ -3,6 +3,16 @@
   padding:0px;
 }
 
+.box {
+	background-color: BurlyWood;
+	height: 160px auto;
+	text-align: center;
+	padding-top: 50px;
+	font-family: Monaco, "Times New Roman";
+	font-size: 3em;
+	box-shadow: 10px, 10px, 10px, 10px;
+}
+
 #octocat {
   display: block;
   width:384px;
